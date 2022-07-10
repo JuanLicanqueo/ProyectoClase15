@@ -1,0 +1,4 @@
+# Esto es un comentario en python
+# El dia de manñana (10 de julio 2022)
+
+#Los temas a tratar son los desarrollados en clase
